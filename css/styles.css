@@ -122,6 +122,15 @@ nav a:hover {
     margin-bottom: 30px;
 }
 
+.contact a {
+    color: white;
+    text-decoration: none;
+}
+
+.contact a:hover {
+    color:#dddddddc;
+}
+
 footer {
     background-color: #333;
     color: white;
